@@ -1,4 +1,3 @@
-def hello(String name = 'User'){
-    
-    echo "welcome ${name}"
+def call(String message) {
+    echo "Shared Function: ${message}"
 }
