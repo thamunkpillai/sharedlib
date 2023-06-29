@@ -1,3 +1,4 @@
-def call(String message) {
-    echo "Shared Function: ${message}"
+def mySharedStep() {
+    // Your shared code logic goes here
+    echo 'Executing mySharedStep'
 }
